@@ -68,10 +68,15 @@
 | Vitor Yuri Santos | Dev | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vitor-y) |
 
 
-### Documentação e Manual do Usuário
+### 📖 Documentação e Manual do Usuário
 <p>
-- Para acesso e visualização das documentações, bastar acessar o seguinte link: (https://github.com/Tech-Guardian)
+- Para acesso e visualização da documentação, bastar acessar o seguinte link: (https://github.com/Tech-Guardian/Documentos)
 </p>
+
+### 📖 Manual para instalação do projeto
+Para acessar e visualizar o front-end do projeto, basta clicar no link: [Front-end](https://github.com/Tech-Guardian/front-end)
+
+Para acessar e visualizar o back-end do projeto, basta clicar no link: [Back-end](https://github.com/Tech-Guardian/back-end)
 
 
 → [Return the top](#returnthetop)
