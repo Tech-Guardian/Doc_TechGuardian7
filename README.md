@@ -69,14 +69,13 @@
 
 
 ### 📖 Documentação e Manual do Usuário
-<p>
-- Para acesso e visualização da documentação, bastar acessar o seguinte link: (https://github.com/Tech-Guardian/Documentos)
-</p>
+
+- Para acesso e visualização da documentação, bastar acessar o seguinte link: [Documentos](https://github.com/Tech-Guardian/Doc_TechGuardian7/tree/main/Documentos)
 
 ### 📖 Manual para instalação do projeto
-Para acessar e visualizar o front-end do projeto, basta clicar no link: [Front-end](https://github.com/Tech-Guardian/front-end)
+- Para acessar e visualizar o front-end do projeto, basta clicar no link: [Front-end](https://github.com/Tech-Guardian/front-end)
 
-Para acessar e visualizar o back-end do projeto, basta clicar no link: [Back-end](https://github.com/Tech-Guardian/back-end)
+- Para acessar e visualizar o back-end do projeto, basta clicar no link: [Back-end](https://github.com/Tech-Guardian/back-end)
 
 
 → [Return the top](#returnthetop)
