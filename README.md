@@ -42,9 +42,9 @@
 
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 25/03 - 14/04 | ✔️ Concluída    | [Relatório](https://github.com/TechGuardian7/Doc_TechGuardian7/blob/main/Sprint01/README.md) |
-| 02 | 15/04 - 05-05 | ✔️ Concluída    | [Relatório](https://github.com/TechGuardian7/Doc_TechGuardian7/blob/main/Sprint02/README.md)|
-| 03 | 06/05 - 26-05 | 🚧 Em andamento    | [Relatório](https://github.com) |
+| 01 | 25/03 - 14/04 | ✔️ Concluída    | [Relatório](https://github.com/Tech-Guardian/Doc_TechGuardian7/blob/main/Sprint01/README.md) |
+| 02 | 15/04 - 05-05 | ✔️ Concluída    | [Relatório](https://github.com/Tech-Guardian/Doc_TechGuardian7/blob/main/Sprint02/README.md)|
+| 03 | 06/05 - 26-05 | ✔️ Concluída    | [Relatório](https://github.com/Tech-Guardian/Doc_TechGuardian7/blob/main/Sprint03/README.md) |
 | 04 | 27/05 - 16-06 | 🚧 Em andamento    | [Relatório](https://github.co) |
 
 ## :dart: Tecnologias Utilizadas 
@@ -73,9 +73,9 @@
 - Para acesso e visualização da documentação, bastar acessar o seguinte link: [Documentos](https://github.com/Tech-Guardian/Doc_TechGuardian7/tree/main/Documentos)
 
 ### 📖 Manual para instalação do projeto
-- Para acessar e visualizar o front-end do projeto, basta clicar no link: [Front-end](https://github.com/Tech-Guardian/front-end)
+- Para acessar o Guia de Instalação do front-end do projeto, basta clicar no link: [Front-end](https://github.com/Tech-Guardian/Doc_TechGuardian7/blob/main/Documentos/GuiaFrontend.pdf)
 
-- Para acessar e visualizar o back-end do projeto, basta clicar no link: [Back-end](https://github.com/Tech-Guardian/back-end)
+- Para acessar o Guia de Instalação do back-end do projeto, basta clicar no link: [Back-end](https://github.com/Tech-Guardian/Doc_TechGuardian7/blob/main/Documentos/GuiaBackendIA.pdf)
 
 
 → [Return the top](#returnthetop)
