@@ -1,5 +1,5 @@
 ##  💻 Objetivo:
-  O objetivo dessa segunda Sprint foi a criação e visualização da emissão de relatório, filtro de dados, criação de usuários junto ao login e aprimoramento do sistema de monitoramento utilizando IA em diversos cenários.
+  O objetivo dessa terceira Sprint foi a criação e visualização da emissão de relatório, filtro de dados, criação de usuários junto ao login e aprimoramento do sistema de monitoramento utilizando IA em diversos cenários.
 
   
 ## :dart: Backlog da Sprint 
