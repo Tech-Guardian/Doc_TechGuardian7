@@ -22,7 +22,7 @@
 
 ### Burndown
 
-<img src="/Sprint02/burndown.png" width="900px" />
+<img src="/Sprint03/burndown.png" width="900px" />
 
 
 
