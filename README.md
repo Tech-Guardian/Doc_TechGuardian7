@@ -13,10 +13,20 @@
 <img src="/Documentos/BACKLOG.png" width="900px" />
 </p>
 
-### 📹Sprint Review
-<p>
-- Para acesso e visualização do projeto, bastar acessar o seguinte link: (https://github.com/Tech-Guardian)
-</p>
+## Projeto
+<details>
+<summary><b>Demonstração do Funcionamento</b></summary>
+ <br>
+   <td alignt="center"><img src="https://github.com/Tech-Guardian/Doc_TechGuardian7/blob/main/Documentos/LoginDashboard.gif" alt=""/>
+   </td>
+   <td alignt="center"><img src="https://github.com/Tech-Guardian/Doc_TechGuardian7/blob/main/Documentos/Relatorio.gif" alt=""/>
+   </td>
+    <td alignt="center"><img src="https://github.com/Tech-Guardian/Doc_TechGuardian7/blob/main/Documentos/ControleManual.gif" alt=""/>
+   </td>
+    <td alignt="center"><img src="https://github.com/Tech-Guardian/Doc_TechGuardian7/blob/main/Documentos/ControleDeUsuário.gif" alt=""/>
+   </td>
+</details>
+<br />
 
 
 ### Requisitos Funcionais:
@@ -71,7 +81,7 @@
 ### 📖 Documentação e Manual do Usuário
 
 - Para acesso e visualização da documentação, bastar acessar o seguinte link: [Documentos](https://github.com/Tech-Guardian/Doc_TechGuardian7/tree/main/Documentos)
-- Para acesso e visualização do Manual do Usuário, bastar acessar o seguinte link: [Documentos](https://github.com/Tech-Guardian/Doc_TechGuardian7/tree/main/Documentos)
+- Para acesso e visualização do Manual do Usuário, bastar acessar o seguinte link: [Manual](https://github.com/Tech-Guardian/Doc_TechGuardian7/blob/main/Documentos/Manual%20do%20Usuário.pdf)
 
 ### 📖 Manual para instalação do projeto
 - Para acessar o Guia de Instalação do front-end do projeto, basta clicar no link: [Front-end](https://github.com/Tech-Guardian/Doc_TechGuardian7/blob/main/Documentos/GuiaFrontend.pdf)
